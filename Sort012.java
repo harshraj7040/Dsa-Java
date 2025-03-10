@@ -1,4 +1,4 @@
-// Dutch national flag problem 
+// Dutch national flag Algorithm 
 
 public class Sort012 {
     // Function to sort an array of 0s, 1s and 2s
