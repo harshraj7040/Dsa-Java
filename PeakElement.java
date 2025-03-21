@@ -1,5 +1,5 @@
 // Java program to find a peak element in the given array
-// Using Linear Se
+// Using Linear Search
 class PeakELement {
     static int peakElement(int[] arr) {
         int n = arr.length;
